@@ -1,0 +1,1671 @@
+{
+  "version": "2.0.0",
+  "as_of": "2026-10-23",
+  "mode": "실측 스냅샷 · 자동 갱신 아님",
+  "instagram": {
+    "account": "tepo_001",
+    "url": "https://www.instagram.com/tepo_001/",
+    "followers": 26,
+    "following": 10,
+    "posts": 13,
+    "periods": [
+      {
+        "days": 7,
+        "views": 2338,
+        "people_viewed": 1711,
+        "interactions": 79,
+        "engaged_accounts": 16,
+        "profile_activity": 38,
+        "profile_visits": 36,
+        "external_link_taps": 2,
+        "followers_pct": 10.4,
+        "nonfollowers_pct": 89.6,
+        "source_url": "https://www.instagram.com/accounts/insights/?timeframe=7",
+        "period_label": "최근 7일",
+        "exact_boundary_dates_not_shown": true,
+        "precision": "exact_displayed",
+        "likes": null,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "reposts": null
+      },
+      {
+        "days": 14,
+        "views": 2343,
+        "people_viewed": 1714,
+        "interactions": 79,
+        "engaged_accounts": 16,
+        "profile_activity": 40,
+        "profile_visits": 38,
+        "external_link_taps": 2,
+        "followers_pct": 10.5,
+        "nonfollowers_pct": 89.5,
+        "source_url": "https://www.instagram.com/accounts/insights/?timeframe=14",
+        "period_label": "최근 14일",
+        "exact_boundary_dates_not_shown": true,
+        "precision": "exact_displayed",
+        "likes": null,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "reposts": null
+      },
+      {
+        "days": 30,
+        "views": 2345,
+        "people_viewed": 1718,
+        "interactions": 79,
+        "engaged_accounts": 16,
+        "profile_activity": 42,
+        "profile_visits": 40,
+        "external_link_taps": 2,
+        "followers_pct": 10.5,
+        "nonfollowers_pct": 89.5,
+        "source_url": "https://www.instagram.com/accounts/insights/?timeframe=30",
+        "period_label": "최근 30일",
+        "exact_boundary_dates_not_shown": true,
+        "precision": "exact_displayed",
+        "likes": null,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "reposts": null
+      },
+      {
+        "days": 90,
+        "views": 2473,
+        "people_viewed": 1746,
+        "interactions": 92,
+        "engaged_accounts": 24,
+        "profile_activity": 55,
+        "profile_visits": 53,
+        "external_link_taps": 2,
+        "followers_pct": 10,
+        "nonfollowers_pct": 90,
+        "source_url": "https://www.instagram.com/accounts/insights/?timeframe=90",
+        "period_label": "최근 90일",
+        "exact_boundary_dates_not_shown": true,
+        "precision": "exact_displayed",
+        "likes": null,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "reposts": null
+      }
+    ],
+    "contents": [
+      {
+        "id": "4013436152094252439",
+        "url": "https://www.instagram.com/p/DeyluqOSd2X/",
+        "date": "2026-10-22",
+        "type": "reel",
+        "views": {
+          "display": "3.2만",
+          "value": null,
+          "precision": "abbreviated"
+        },
+        "people": {
+          "display": "2.6만",
+          "value": null,
+          "precision": "abbreviated"
+        },
+        "likes": {
+          "display": "2137",
+          "value": 2137,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "4",
+          "value": 4,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "139",
+          "value": 139,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "2195",
+          "value": 2195,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "4562",
+          "value": 4562,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "17",
+          "value": 17,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4012824415615652460",
+        "url": "https://www.instagram.com/p/DewaouOyRJs/",
+        "date": "2026-10-21",
+        "type": "reel",
+        "views": {
+          "display": "1470",
+          "value": 1470,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "1205",
+          "value": 1205,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "12",
+          "value": 12,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "2",
+          "value": 2,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "16",
+          "value": 16,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "1",
+          "value": 1,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4010688474633555851",
+        "url": "https://www.instagram.com/p/Deo0-sLSU-L/",
+        "date": "2026-10-18",
+        "type": "reel",
+        "views": {
+          "display": "233",
+          "value": 233,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "212",
+          "value": 212,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "6",
+          "value": 6,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "1",
+          "value": 1,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "7",
+          "value": 7,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4011881613668625493",
+        "url": "https://www.instagram.com/p/DetERJfo6xV/",
+        "date": "2026-10-20",
+        "type": "reel",
+        "views": {
+          "display": "182",
+          "value": 182,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "138",
+          "value": 138,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "3",
+          "value": 3,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "4",
+          "value": 4,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4011348942213867920",
+        "url": "https://www.instagram.com/p/DerLJwiy-mQ/",
+        "date": "2026-10-19",
+        "type": "reel",
+        "views": {
+          "display": "168",
+          "value": 168,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "124",
+          "value": 124,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "5",
+          "value": 5,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "1",
+          "value": 1,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "6",
+          "value": 6,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4010998736368686948",
+        "url": "https://www.instagram.com/p/Dep7hl7y9dk/",
+        "date": "2026-10-19",
+        "type": "reel",
+        "views": {
+          "display": "156",
+          "value": 156,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "139",
+          "value": 139,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "4",
+          "value": 4,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "4",
+          "value": 4,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "1",
+          "value": 1,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "3981495391707357654",
+        "url": "https://www.instagram.com/p/DdBHPbBkmHW/?img_index=1",
+        "date": "2026-09-08",
+        "type": "carousel",
+        "views": {
+          "display": "146",
+          "value": 146,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "56",
+          "value": 56,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "12",
+          "value": 12,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "14",
+          "value": 14,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4012054180596478564",
+        "url": "https://www.instagram.com/p/DetrgU-EvJk/?img_index=1",
+        "date": "2026-10-20",
+        "type": "carousel",
+        "views": {
+          "display": "43",
+          "value": 43,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "16",
+          "value": 16,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "6",
+          "value": 6,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "4",
+          "value": 4,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "11",
+          "value": 11,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4008846245439373532",
+        "url": "https://www.instagram.com/p/DeiSGuikoDc/?img_index=1",
+        "date": "2026-10-16",
+        "type": "carousel",
+        "views": {
+          "display": "41",
+          "value": 41,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "19",
+          "value": 19,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "6",
+          "value": 6,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "7",
+          "value": 7,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4011060213251717965",
+        "url": "https://www.instagram.com/p/DeqJgMvkjtN/?img_index=1",
+        "date": "2026-10-19",
+        "type": "carousel",
+        "views": {
+          "display": "38",
+          "value": 38,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "15",
+          "value": 15,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "7",
+          "value": 7,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "7",
+          "value": 7,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "1",
+          "value": 1,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4013244203689104145",
+        "url": "https://www.instagram.com/p/Dex6FcVyNMR/",
+        "date": "2026-10-22",
+        "type": "image",
+        "views": {
+          "display": "37",
+          "value": 37,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "15",
+          "value": 15,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "4",
+          "value": 4,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "5",
+          "value": 5,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4012578420814928366",
+        "url": "https://www.instagram.com/p/DevitBuElnu/?img_index=1",
+        "date": "2026-10-21",
+        "type": "carousel",
+        "views": {
+          "display": "33",
+          "value": 33,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "12",
+          "value": 12,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "5",
+          "value": 5,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "6",
+          "value": 6,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      },
+      {
+        "id": "4009191915136392773",
+        "url": "https://www.instagram.com/p/Dejgs4iEp5F/?img_index=1",
+        "date": "2026-10-16",
+        "type": "carousel",
+        "views": {
+          "display": "30",
+          "value": 30,
+          "precision": "exact_displayed"
+        },
+        "people": {
+          "display": "13",
+          "value": 13,
+          "precision": "exact_displayed"
+        },
+        "likes": {
+          "display": "4",
+          "value": 4,
+          "precision": "exact_displayed"
+        },
+        "comments": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "saves": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "shares": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        },
+        "interactions": {
+          "display": "4",
+          "value": 4,
+          "precision": "exact_displayed"
+        },
+        "follows": {
+          "display": "0",
+          "value": 0,
+          "precision": "exact_displayed"
+        }
+      }
+    ]
+  },
+  "youtube": {
+    "account": "테포",
+    "url": "https://www.youtube.com/channel/UC8RZE0SerMxjKUhrRqerQng",
+    "followers": 6,
+    "posts": 7,
+    "start": "2026-10-05",
+    "end": "2026-10-21",
+    "daily": [
+      {
+        "날짜": "2026-10-21",
+        "유효 조회수": 356,
+        "구독자": 2,
+        "평균 조회율 (%)": 76.87,
+        "게시된 동영상": 1,
+        "썸네일 노출수": 94,
+        "썸네일 클릭률 (%)": 2.13,
+        "계속 시청함 (%)": 31.04,
+        "순 시청자수": 346,
+        "시청자당 평균 조회수": 1.0289,
+        "신규 시청자": null,
+        "재방문 시청자": null,
+        "일반 시청자": null,
+        "고정 시청자": null,
+        "구독자 증가수": 2,
+        "구독자 감소수": 0,
+        "좋아요": 7,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 0,
+        "추가된 댓글 수": 1,
+        "조회수": 989,
+        "시청 시간(단위: 시간)": 1.923,
+        "평균 시청 지속 시간": "0:00:17"
+      },
+      {
+        "날짜": "2026-10-06",
+        "유효 조회수": 27,
+        "구독자": 3,
+        "평균 조회율 (%)": 51.27,
+        "게시된 동영상": 1,
+        "썸네일 노출수": 134,
+        "썸네일 클릭률 (%)": 10.45,
+        "계속 시청함 (%)": 100,
+        "순 시청자수": 16,
+        "시청자당 평균 조회수": 1.6875,
+        "신규 시청자": 16,
+        "재방문 시청자": 0,
+        "일반 시청자": 0,
+        "고정 시청자": 0,
+        "구독자 증가수": 3,
+        "구독자 감소수": 0,
+        "좋아요": 3,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 1,
+        "추가된 댓글 수": 0,
+        "조회수": 42,
+        "시청 시간(단위: 시간)": 0.2782,
+        "평균 시청 지속 시간": "0:00:36"
+      },
+      {
+        "날짜": "2026-10-19",
+        "유효 조회수": 19,
+        "구독자": 0,
+        "평균 조회율 (%)": 107.68,
+        "게시된 동영상": 3,
+        "썸네일 노출수": 149,
+        "썸네일 클릭률 (%)": 8.05,
+        "계속 시청함 (%)": 54.17,
+        "순 시청자수": 11,
+        "시청자당 평균 조회수": 1.7273,
+        "신규 시청자": 5,
+        "재방문 시청자": 6,
+        "일반 시청자": 6,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 6,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 2,
+        "추가된 댓글 수": 3,
+        "조회수": 59,
+        "시청 시간(단위: 시간)": 0.3196,
+        "평균 시청 지속 시간": "0:00:58"
+      },
+      {
+        "날짜": "2026-10-09",
+        "유효 조회수": 17,
+        "구독자": 0,
+        "평균 조회율 (%)": 54.13,
+        "게시된 동영상": null,
+        "썸네일 노출수": 73,
+        "썸네일 클릭률 (%)": 17.81,
+        "계속 시청함 (%)": 100,
+        "순 시청자수": 4,
+        "시청자당 평균 조회수": 4.25,
+        "신규 시청자": 3,
+        "재방문 시청자": 1,
+        "일반 시청자": 1,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 34,
+        "시청 시간(단위: 시간)": 0.1841,
+        "평균 시청 지속 시간": "0:00:38"
+      },
+      {
+        "날짜": "2026-10-15",
+        "유효 조회수": 11,
+        "구독자": 0,
+        "평균 조회율 (%)": 232.48,
+        "게시된 동영상": null,
+        "썸네일 노출수": 62,
+        "썸네일 클릭률 (%)": 16.13,
+        "계속 시청함 (%)": 84.62,
+        "순 시청자수": 8,
+        "시청자당 평균 조회수": 1.375,
+        "신규 시청자": 5,
+        "재방문 시청자": 3,
+        "일반 시청자": 3,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 24,
+        "시청 시간(단위: 시간)": 0.5064,
+        "평균 시청 지속 시간": "0:02:45"
+      },
+      {
+        "날짜": "2026-10-20",
+        "유효 조회수": 10,
+        "구독자": 0,
+        "평균 조회율 (%)": 57.44,
+        "게시된 동영상": null,
+        "썸네일 노출수": 55,
+        "썸네일 클릭률 (%)": 10.91,
+        "계속 시청함 (%)": 88.89,
+        "순 시청자수": 7,
+        "시청자당 평균 조회수": 1.4286,
+        "신규 시청자": null,
+        "재방문 시청자": null,
+        "일반 시청자": null,
+        "고정 시청자": null,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 22,
+        "시청 시간(단위: 시간)": 0.1069,
+        "평균 시청 지속 시간": "0:00:37"
+      },
+      {
+        "날짜": "2026-10-18",
+        "유효 조회수": 8,
+        "구독자": 0,
+        "평균 조회율 (%)": 56.26,
+        "게시된 동영상": 2,
+        "썸네일 노출수": 63,
+        "썸네일 클릭률 (%)": 11.11,
+        "계속 시청함 (%)": 100,
+        "순 시청자수": 8,
+        "시청자당 평균 조회수": 1,
+        "신규 시청자": 5,
+        "재방문 시청자": 3,
+        "일반 시청자": 3,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 2,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 0,
+        "추가된 댓글 수": 2,
+        "조회수": 25,
+        "시청 시간(단위: 시간)": 0.0934,
+        "평균 시청 지속 시간": "0:00:41"
+      },
+      {
+        "날짜": "2026-10-14",
+        "유효 조회수": 7,
+        "구독자": 0,
+        "평균 조회율 (%)": 24.14,
+        "게시된 동영상": null,
+        "썸네일 노출수": 58,
+        "썸네일 클릭률 (%)": 8.62,
+        "계속 시청함 (%)": 87.5,
+        "순 시청자수": 5,
+        "시청자당 평균 조회수": 1.4,
+        "신규 시청자": 4,
+        "재방문 시청자": 1,
+        "일반 시청자": 1,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 15,
+        "시청 시간(단위: 시간)": 0.0363,
+        "평균 시청 지속 시간": "0:00:17"
+      },
+      {
+        "날짜": "2026-10-07",
+        "유효 조회수": 6,
+        "구독자": 0,
+        "평균 조회율 (%)": 76.57,
+        "게시된 동영상": null,
+        "썸네일 노출수": 118,
+        "썸네일 클릭률 (%)": 3.39,
+        "계속 시청함 (%)": 83.33,
+        "순 시청자수": 4,
+        "시청자당 평균 조회수": 1.5,
+        "신규 시청자": 3,
+        "재방문 시청자": 1,
+        "일반 시청자": 1,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 24,
+        "시청 시간(단위: 시간)": 0.0952,
+        "평균 시청 지속 시간": "0:00:54"
+      },
+      {
+        "날짜": "2026-10-08",
+        "유효 조회수": 5,
+        "구독자": 0,
+        "평균 조회율 (%)": 32.75,
+        "게시된 동영상": null,
+        "썸네일 노출수": 53,
+        "썸네일 클릭률 (%)": 9.43,
+        "계속 시청함 (%)": 83.33,
+        "순 시청자수": 4,
+        "시청자당 평균 조회수": 1.25,
+        "신규 시청자": 4,
+        "재방문 시청자": 0,
+        "일반 시청자": 0,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 8,
+        "시청 시간(단위: 시간)": 0.0328,
+        "평균 시청 지속 시간": "0:00:23"
+      },
+      {
+        "날짜": "2026-10-17",
+        "유효 조회수": 4,
+        "구독자": 0,
+        "평균 조회율 (%)": 28.83,
+        "게시된 동영상": null,
+        "썸네일 노출수": 29,
+        "썸네일 클릭률 (%)": 10.34,
+        "계속 시청함 (%)": 100,
+        "순 시청자수": 3,
+        "시청자당 평균 조회수": 1.3333,
+        "신규 시청자": 1,
+        "재방문 시청자": 2,
+        "일반 시청자": 2,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 4,
+        "시청 시간(단위: 시간)": 0.0227,
+        "평균 시청 지속 시간": "0:00:20"
+      },
+      {
+        "날짜": "2026-10-13",
+        "유효 조회수": 4,
+        "구독자": 0,
+        "평균 조회율 (%)": 17.95,
+        "게시된 동영상": null,
+        "썸네일 노출수": 52,
+        "썸네일 클릭률 (%)": 7.69,
+        "계속 시청함 (%)": 100,
+        "순 시청자수": 2,
+        "시청자당 평균 조회수": 2,
+        "신규 시청자": 2,
+        "재방문 시청자": 0,
+        "일반 시청자": 0,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 10,
+        "시청 시간(단위: 시간)": 0.0182,
+        "평균 시청 지속 시간": "0:00:12"
+      },
+      {
+        "날짜": "2026-10-16",
+        "유효 조회수": 3,
+        "구독자": 0,
+        "평균 조회율 (%)": 46.9,
+        "게시된 동영상": null,
+        "썸네일 노출수": 35,
+        "썸네일 클릭률 (%)": 5.71,
+        "계속 시청함 (%)": 100,
+        "순 시청자수": 2,
+        "시청자당 평균 조회수": 1.5,
+        "신규 시청자": 0,
+        "재방문 시청자": 2,
+        "일반 시청자": 2,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 11,
+        "시청 시간(단위: 시간)": 0.0301,
+        "평균 시청 지속 시간": "0:00:33"
+      },
+      {
+        "날짜": "2026-10-10",
+        "유효 조회수": 2,
+        "구독자": 0,
+        "평균 조회율 (%)": 79.79,
+        "게시된 동영상": null,
+        "썸네일 노출수": 43,
+        "썸네일 클릭률 (%)": 2.33,
+        "계속 시청함 (%)": 66.67,
+        "순 시청자수": 2,
+        "시청자당 평균 조회수": 1,
+        "신규 시청자": 1,
+        "재방문 시청자": 1,
+        "일반 시청자": 1,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 13,
+        "시청 시간(단위: 시간)": 0.0373,
+        "평균 시청 지속 시간": "0:00:56"
+      },
+      {
+        "날짜": "2026-10-11",
+        "유효 조회수": 2,
+        "구독자": 0,
+        "평균 조회율 (%)": 46.97,
+        "게시된 동영상": null,
+        "썸네일 노출수": 46,
+        "썸네일 클릭률 (%)": 4.35,
+        "계속 시청함 (%)": 50,
+        "순 시청자수": 2,
+        "시청자당 평균 조회수": 1,
+        "신규 시청자": 1,
+        "재방문 시청자": 1,
+        "일반 시청자": 1,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 6,
+        "시청 시간(단위: 시간)": 0.0191,
+        "평균 시청 지속 시간": "0:00:33"
+      },
+      {
+        "날짜": "2026-10-12",
+        "유효 조회수": 2,
+        "구독자": 0,
+        "평균 조회율 (%)": 55.85,
+        "게시된 동영상": null,
+        "썸네일 노출수": 38,
+        "썸네일 클릭률 (%)": 2.63,
+        "계속 시청함 (%)": 100,
+        "순 시청자수": 2,
+        "시청자당 평균 조회수": 1,
+        "신규 시청자": 0,
+        "재방문 시청자": 2,
+        "일반 시청자": 2,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 0,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 8,
+        "시청 시간(단위: 시간)": 0.0241,
+        "평균 시청 지속 시간": "0:00:39"
+      },
+      {
+        "날짜": "2026-10-05",
+        "유효 조회수": null,
+        "구독자": null,
+        "평균 조회율 (%)": null,
+        "게시된 동영상": 0,
+        "썸네일 노출수": 0,
+        "썸네일 클릭률 (%)": null,
+        "계속 시청함 (%)": null,
+        "순 시청자수": 0,
+        "시청자당 평균 조회수": null,
+        "신규 시청자": null,
+        "재방문 시청자": null,
+        "일반 시청자": null,
+        "고정 시청자": null,
+        "구독자 증가수": null,
+        "구독자 감소수": null,
+        "좋아요": null,
+        "싫어요": null,
+        "좋아요(싫어요 대비) (%)": null,
+        "공유": null,
+        "추가된 댓글 수": null,
+        "조회수": null,
+        "시청 시간(단위: 시간)": null,
+        "평균 시청 지속 시간": null
+      }
+    ],
+    "total": {
+      "콘텐츠": "합계",
+      "동영상 제목": null,
+      "동영상 게시 시간": null,
+      "길이": null,
+      "유효 조회수": 483,
+      "평균 시청 지속 시간": "0:00:25",
+      "평균 조회율 (%)": 74.85,
+      "계속 시청함 (%)": 36.47,
+      "순 시청자수": 402,
+      "시청자당 평균 조회수": 1.2015,
+      "신규 시청자": 50,
+      "재방문 시청자": 1,
+      "일반 시청자": 1,
+      "고정 시청자": 0,
+      "구독자 증가수": 5,
+      "구독자 감소수": 0,
+      "좋아요": 18,
+      "싫어요": 0,
+      "좋아요(싫어요 대비) (%)": 100,
+      "공유": 3,
+      "추가된 댓글 수": 6,
+      "조회수": 1294,
+      "시청 시간(단위: 시간)": 3.7273,
+      "구독자": 5,
+      "썸네일 노출수": 1102,
+      "썸네일 클릭률 (%)": 8.26
+    },
+    "content_report": [
+      {
+        "콘텐츠": "cmlGWWlpI_g",
+        "동영상 제목": "핀터레스트 그림 그리기!",
+        "동영상 게시 시간": "Oct 21, 2026",
+        "길이": 22,
+        "유효 조회수": 350,
+        "평균 시청 지속 시간": "0:00:17",
+        "평균 조회율 (%)": 79.03,
+        "계속 시청함 (%)": 30.78,
+        "순 시청자수": 344,
+        "시청자당 평균 조회수": 1.0174,
+        "신규 시청자": null,
+        "재방문 시청자": null,
+        "일반 시청자": null,
+        "고정 시청자": null,
+        "구독자 증가수": 2,
+        "구독자 감소수": 0,
+        "좋아요": 7,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 0,
+        "추가된 댓글 수": 1,
+        "조회수": 967,
+        "시청 시간(단위: 시간)": 1.9075,
+        "구독자": 2,
+        "썸네일 노출수": 13,
+        "썸네일 클릭률 (%)": 7.69
+      },
+      {
+        "콘텐츠": "aBLrlBTrjn8",
+        "동영상 제목": "해양 안전 Check! [2026 해양안전 콘텐츠 공모전] | Ai 숏폼 영상",
+        "동영상 게시 시간": "Oct 6, 2026",
+        "길이": 71,
+        "유효 조회수": 113,
+        "평균 시청 지속 시간": "0:00:45",
+        "평균 조회율 (%)": 63.88,
+        "계속 시청함 (%)": 90.52,
+        "순 시청자수": 56,
+        "시청자당 평균 조회수": 2.0179,
+        "신규 시청자": 48,
+        "재방문 시청자": 0,
+        "일반 시청자": 0,
+        "고정 시청자": 0,
+        "구독자 증가수": 3,
+        "구독자 감소수": 0,
+        "좋아요": 3,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 1,
+        "추가된 댓글 수": 0,
+        "조회수": 277,
+        "시청 시간(단위: 시간)": 1.4704,
+        "구독자": 3,
+        "썸네일 노출수": 1038,
+        "썸네일 클릭률 (%)": 7.8
+      },
+      {
+        "콘텐츠": "yov6U7Zs0PU",
+        "동영상 제목": "테포는 새우깡이 좋아!",
+        "동영상 게시 시간": "Oct 18, 2026",
+        "길이": 87,
+        "유효 조회수": 9,
+        "평균 시청 지속 시간": "0:00:40",
+        "평균 조회율 (%)": 46.06,
+        "계속 시청함 (%)": null,
+        "순 시청자수": 6,
+        "시청자당 평균 조회수": 1.5,
+        "신규 시청자": 1,
+        "재방문 시청자": 4,
+        "일반 시청자": 4,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 3,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 1,
+        "추가된 댓글 수": 1,
+        "조회수": 11,
+        "시청 시간(단위: 시간)": 0.1007,
+        "구독자": 0,
+        "썸네일 노출수": 7,
+        "썸네일 클릭률 (%)": 71.43
+      },
+      {
+        "콘텐츠": "IPaHYdmeESE",
+        "동영상 제목": "테트라포드에 빠진 테트라포드",
+        "동영상 게시 시간": "Oct 19, 2026",
+        "길이": 4,
+        "유효 조회수": 7,
+        "평균 시청 지속 시간": "0:01:50",
+        "평균 조회율 (%)": 2756.76,
+        "계속 시청함 (%)": 60,
+        "순 시청자수": 4,
+        "시청자당 평균 조회수": 1.75,
+        "신규 시청자": 1,
+        "재방문 시청자": 2,
+        "일반 시청자": 2,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 2,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 1,
+        "추가된 댓글 수": 1,
+        "조회수": 26,
+        "시청 시간(단위: 시간)": 0.2165,
+        "구독자": 0,
+        "썸네일 노출수": 9,
+        "썸네일 클릭률 (%)": 22.22
+      },
+      {
+        "콘텐츠": "wm9Eu2WToNM",
+        "동영상 제목": "비가 오는 날엔",
+        "동영상 게시 시간": "Oct 20, 2026",
+        "길이": 8,
+        "유효 조회수": 2,
+        "평균 시청 지속 시간": "0:00:09",
+        "평균 조회율 (%)": 115.27,
+        "계속 시청함 (%)": 22.22,
+        "순 시청자수": 2,
+        "시청자당 평균 조회수": 1,
+        "신규 시청자": 0,
+        "재방문 시청자": 1,
+        "일반 시청자": 1,
+        "고정 시청자": 0,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 2,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 0,
+        "추가된 댓글 수": 1,
+        "조회수": 9,
+        "시청 시간(단위: 시간)": 0.0076,
+        "구독자": 0,
+        "썸네일 노출수": 10,
+        "썸네일 클릭률 (%)": 10
+      },
+      {
+        "콘텐츠": "8zcweUcoTcc",
+        "동영상 제목": "테포는 새우깡이 좋아!",
+        "동영상 게시 시간": "Oct 19, 2026",
+        "길이": 44,
+        "유효 조회수": 1,
+        "평균 시청 지속 시간": "0:00:12",
+        "평균 조회율 (%)": 27.5,
+        "계속 시청함 (%)": 50,
+        "순 시청자수": 1,
+        "시청자당 평균 조회수": 1,
+        "신규 시청자": null,
+        "재방문 시청자": null,
+        "일반 시청자": null,
+        "고정 시청자": null,
+        "구독자 증가수": 0,
+        "구독자 감소수": 0,
+        "좋아요": 1,
+        "싫어요": 0,
+        "좋아요(싫어요 대비) (%)": 100,
+        "공유": 0,
+        "추가된 댓글 수": 0,
+        "조회수": 2,
+        "시청 시간(단위: 시간)": 0.0034,
+        "구독자": 0,
+        "썸네일 노출수": 11,
+        "썸네일 클릭률 (%)": 0
+      }
+    ],
+    "contents": [
+      {
+        "id": "E1j4jQ8_WnE",
+        "title": "춤",
+        "type": "Shorts",
+        "date": "2026-10-22",
+        "duration_seconds": 16,
+        "views": 1084,
+        "comments": 2,
+        "url": "https://www.youtube.com/watch?v=E1j4jQ8_WnE",
+        "restrictions": null
+      },
+      {
+        "id": "cmlGWWlpI_g",
+        "title": "핀터레스트 그림 그리기!",
+        "type": "Shorts",
+        "date": "2026-10-21",
+        "duration_seconds": 22,
+        "views": 1000,
+        "comments": 2,
+        "url": "https://www.youtube.com/watch?v=cmlGWWlpI_g",
+        "restrictions": "잠재적 제한사항 있음; 대시보드에 일부지역 차단 알림"
+      },
+      {
+        "id": "wm9Eu2WToNM",
+        "title": "비가 오는 날엔",
+        "type": "Shorts",
+        "date": "2026-10-20",
+        "duration_seconds": 8,
+        "views": 14,
+        "comments": 1,
+        "url": "https://www.youtube.com/watch?v=wm9Eu2WToNM",
+        "restrictions": null
+      },
+      {
+        "id": "IPaHYdmeESE",
+        "title": "테트라포드에 빠진 테트라포드",
+        "type": "Shorts",
+        "date": "2026-10-19",
+        "duration_seconds": 4,
+        "views": 29,
+        "comments": 1,
+        "url": "https://www.youtube.com/watch?v=IPaHYdmeESE",
+        "restrictions": null
+      },
+      {
+        "id": "8zcweUcoTcc",
+        "title": "테포는 새우깡이 좋아!",
+        "type": "Shorts",
+        "date": "2026-10-19",
+        "duration_seconds": 44,
+        "views": 4,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=8zcweUcoTcc",
+        "restrictions": null
+      },
+      {
+        "id": "aBLrlBTrjn8",
+        "title": "해양 안전 Check! [2026 해양안전 콘텐츠 공모전] | Ai 숏폼 영상",
+        "type": "Shorts",
+        "date": "2026-10-06",
+        "duration_seconds": 71,
+        "views": 283,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=aBLrlBTrjn8",
+        "restrictions": null
+      },
+      {
+        "id": "yov6U7Zs0PU",
+        "title": "테포는 새우깡이 좋아!",
+        "type": "동영상",
+        "date": "2026-10-18",
+        "duration_seconds": 87,
+        "views": 12,
+        "comments": 1,
+        "url": "https://www.youtube.com/watch?v=yov6U7Zs0PU",
+        "restrictions": null
+      }
+    ],
+    "realtime": {
+      "views_last_48h": 2128,
+      "top_contents": [
+        {
+          "title": "춤",
+          "views": 1090
+        },
+        {
+          "title": "핀터레스트 그림 그리기!",
+          "views": 997
+        },
+        {
+          "title": "해양 안전 Check!",
+          "views": 23
+        }
+      ],
+      "note": "수집시점 UI표시. 현재콘텐츠목록·확정분석과 집계기간 및 갱신차이 있음"
+    },
+    "extra": {
+      "channel": "테포",
+      "channel_id": "UC8RZE0SerMxjKUhrRqerQng",
+      "observed_at": "2026-10-23T01:29:11.712Z",
+      "period": {
+        "start": "2026-09-24",
+        "end": "2026-10-21",
+        "label": "지난 28일"
+      },
+      "sources": {
+        "audience": "https://studio.youtube.com/channel/UC8RZE0SerMxjKUhrRqerQng/analytics/tab-build_audience/period-default",
+        "content": "https://studio.youtube.com/channel/UC8RZE0SerMxjKUhrRqerQng/analytics/tab-content/period-default"
+      },
+      "audience": {
+        "monthly_viewers": 51,
+        "monthly_viewers_note": "매일 이전 28일 기준 추정치. 데이터 3일분 아직 처리 중 표시.",
+        "net_subscribers": 5,
+        "viewer_segments": {
+          "as_of": "2026-10-21",
+          "new": "98.0%",
+          "casual": "2.0%",
+          "regular": "< 0.1%",
+          "definitions": {
+            "new": "내 채널을 처음 시청함",
+            "casual": "지난 1년간 최대 5개월 동안 내 채널을 시청함",
+            "regular": "지난 1년간 6개월 이상 내 채널을 시청함"
+          }
+        },
+        "devices": {
+          "metric": "시청 시간 비중",
+          "scope": "전체",
+          "mobile": "41.7%",
+          "computer": "33.7%",
+          "tv": "18.4%",
+          "tablet": "6.3%"
+        },
+        "geography": {
+          "metric": "조회수 비중",
+          "displayed": [
+            {
+              "region": "대한민국",
+              "share": "10.4%"
+            }
+          ],
+          "note": "UI에 표시된 지역만 기록. 나머지 국가 및 미분류 값 미확보."
+        },
+        "subtitle_languages": {
+          "metric": "조회수 비중",
+          "none": "99.2%",
+          "korean": "0.8%",
+          "english": "0.1%"
+        }
+      },
+      "shorts": {
+        "views_displayed": "1.3천",
+        "engaged_views": 474,
+        "engaged_views_definition": "처음 몇 초가 지난 후에도 시청자가 계속 시청한 횟수",
+        "net_likes": 15,
+        "net_subscribers": 5,
+        "stayed_to_watch": "36.5%",
+        "swiped_away": "63.5%",
+        "swiped_away_ui_label": "이탈함"
+      },
+      "content_formats": {
+        "new_viewers": {
+          "shorts": 49,
+          "videos": 1
+        },
+        "regular_viewers": {
+          "shorts": 0,
+          "videos": 0
+        },
+        "net_subscribers": {
+          "shorts": 5,
+          "videos": 0
+        },
+        "views": {
+          "shorts_displayed": "1.3천",
+          "shorts_share": "99.1%",
+          "videos": 11,
+          "videos_share": "0.9%"
+        },
+        "published": {
+          "shorts": 6,
+          "videos": 1
+        },
+        "impressions_funnel": {
+          "impressions_displayed": "1.1천",
+          "ctr": "8.3%",
+          "engaged_views_from_impressions": 91,
+          "average_view_duration": "0:55",
+          "watch_time_hours_from_impressions": 1.4
+        }
+      },
+      "unavailable": [
+        {
+          "metric": "연령",
+          "reason": "인구통계 데이터 부족"
+        },
+        {
+          "metric": "성별",
+          "reason": "인구통계 데이터 부족"
+        },
+        {
+          "metric": "구독 여부별 시청 시간",
+          "reason": "이 기간에 대해서는 표시할 항목이 없습니다."
+        },
+        {
+          "metric": "시청자가 YouTube를 이용하는 시간대",
+          "reason": "시청자 데이터 부족"
+        },
+        {
+          "metric": "시청자가 시청하는 채널",
+          "reason": "요건을 충족하는 시청자층 데이터 부족"
+        },
+        {
+          "metric": "시청자가 시청하는 콘텐츠",
+          "reason": "요건을 충족하는 시청자층 데이터 부족",
+          "period": "지난 7일"
+        },
+        {
+          "metric": "시청자가 YouTube에서 시청하는 형식",
+          "reason": "데이터 부족"
+        },
+        {
+          "metric": "형식별 재방문 시청자",
+          "reason": "데이터 부족"
+        },
+        {
+          "metric": "인기 리믹스",
+          "reason": "이 기간에 대해서는 표시할 항목이 없습니다."
+        }
+      ],
+      "notes": [
+        "미표시는 0이 아닌 미확보. 단 고정 시청자 등 0으로 표시된 값은 그대로 기록.",
+        "고급 모드, CSV, 트래픽 소스 수집은 생략.",
+        "계정 변경, 게시물 작성 및 수정 없음.",
+        "비율은 UI 반올림으로 합계 100%와 차이 가능."
+      ]
+    }
+  },
+  "ga4": {
+    "period": {
+      "start": "2026-09-25",
+      "end": "2026-10-22",
+      "label": "지난 28일"
+    },
+    "totals": {
+      "active_users": 13,
+      "total_users": 13,
+      "sessions": 35,
+      "views": 178,
+      "event_count": 542,
+      "engaged_sessions": 27,
+      "engagement_rate": 0.7714
+    },
+    "events": [
+      {
+        "name": "lighthouse_click",
+        "count": 33,
+        "users": 4
+      },
+      {
+        "name": "lighthouse_view",
+        "count": 18,
+        "users": 4
+      }
+    ],
+    "note": "전체 유입 기준. SNS 귀속 미확보. 테스트 유입 포함 가능."
+  },
+  "quality": [
+    {
+      "scope": "Instagram",
+      "issue": "90일 계정조회수 2,473과 최신릴스 상세3.2만 불일치",
+      "handling": "계정기간합과 개별누적 별도 보존, 합산보정 금지"
+    },
+    {
+      "scope": "Instagram",
+      "issue": "3.2만 조회수·2.6만 조회한사람은 축약값",
+      "handling": "정확정수 null, 원본표기 보존"
+    },
+    {
+      "scope": "Instagram",
+      "issue": "최신릴스 반응4,562와 좋아요+댓글+저장+공유 합4,475 불일치",
+      "handling": "차이를 리포스트로 추정하지 않음"
+    },
+    {
+      "scope": "YouTube",
+      "issue": "전체기간UI 10/5~21, 다운로드 파일명 종료10/22",
+      "handling": "CSV 실제 날짜10/5~21 사용,10/22~23 미반영"
+    },
+    {
+      "scope": "YouTube",
+      "issue": "콘텐츠6행 조회수합1,292, 합계1,294로2차이",
+      "handling": "특정영상·삭제영상으로 임의배분 금지"
+    },
+    {
+      "scope": "YouTube",
+      "issue": "콘텐츠별차트5개영상85행, 표6개영상",
+      "handling": "차트는 전체 콘텐츠 일별자료 아님"
+    },
+    {
+      "scope": "YouTube",
+      "issue": "실시간48시간2,128과 보고서1,294 기간 다름",
+      "handling": "확정분석과 실시간 별도 표시, 합산 금지"
+    },
+    {
+      "scope": "GA4",
+      "issue": "채널세션30+5+5=40, 총계35 불일치",
+      "handling": "원본보존, 행합계로 총계 대체 금지"
+    },
+    {
+      "scope": "GA4",
+      "issue": "테스트유입 포함, SNS명시 소스행 없음",
+      "handling": "전체행동을 SNS전환으로 귀속하지 않음"
+    },
+    {
+      "scope": "공통",
+      "issue": "10/23 수집은10/23 하루 확정실적 아님",
+      "handling": "관찰시점·집계기간 별도표시, 미확보0처리 금지"
+    },
+    {
+      "scope": "공통",
+      "issue": "Instagram 최근N일 절대날짜·시간대 미표시,YouTube 시간대 미검증",
+      "handling": "일별 한국시간 통일 확인후 채널합산"
+    }
+  ]
+}
