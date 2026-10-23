@@ -31,3 +31,10 @@ python -m http.server 4173 --directory dist
 목표는 브라우저의 localStorage에 저장되며 기기 간 동기화되지 않습니다. 매주 월요일 오전 9시(한국 시간) 알림은 원래 Codex 채팅에서 별도로 설정한 자동화입니다. 이 저장소만 실행하면 알림이 발송되지는 않습니다.
 
 `dist/thumbnails`에는 직접 제작한 데모 SVG 일러스트가 포함되어 있습니다. 실제 데이터 연결 시 각 콘텐츠의 썸네일 경로로 교체할 수 있습니다.
+
+## GitHub Pages
+
+https://kimdongyoung27.github.io/SNS001/
+
+main 브랜치에 푸시하면 GitHub Actions가 dist 폴더를 자동 배포합니다.
+
