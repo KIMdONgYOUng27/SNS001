@@ -1669,65 +1669,65 @@
     }
   ],
   "latest_run": {
-    "observed_at": "2026-10-27T02:28:02.747Z",
-    "date": "2026-10-27",
-    "previous_date": "2026-10-26",
+    "observed_at": "2026-11-03T11:40:03.069Z",
+    "date": "2026-11-03",
+    "previous_date": "2026-10-27",
     "cadence": "월~금 09:00 Asia/Seoul",
     "instagram": {
       "account": "tepo_001",
       "url": "https://www.instagram.com/tepo_001/",
-      "followers": 77,
-      "posts": 18,
-      "following": 11,
+      "followers": 102,
+      "posts": 23,
+      "following": 14,
       "change_since_previous": {
-        "followers": 4,
-        "posts": 1
+        "followers": 25,
+        "posts": 5
       },
       "periods": [
         {
           "days": 7,
           "views": {
-            "display": "13.5만",
+            "display": "4.8만",
             "value": null,
             "precision": "abbreviated"
           },
           "people_viewed": {
-            "display": "10.6만",
+            "display": "3.5만",
             "value": null,
             "precision": "abbreviated"
           },
           "interactions": {
-            "display": "2.8만",
-            "value": null,
-            "precision": "abbreviated"
+            "display": "9628",
+            "value": 9628,
+            "precision": "exact_displayed"
           },
           "engaged_accounts": {
-            "display": "1.3만",
-            "value": null,
-            "precision": "abbreviated"
+            "display": "5085",
+            "value": 5085,
+            "precision": "exact_displayed"
           },
           "nonfollowers_pct": 98.6,
-          "profile_activity": 282,
-          "profile_visits": 270,
-          "external_link_taps": 12
+          "profile_activity": 89,
+          "profile_visits": 89,
+          "external_link_taps": null
         }
       ],
       "top_content": [
         {
-          "date": "2026-10-22",
-          "views_display": "11.6만"
+          "date": "2026-10-28",
+          "views_display": "3744"
         },
         {
-          "date": "2026-10-24",
-          "views_display": "2.4만"
+          "date": "2026-11-02",
+          "views_display": "1238"
         },
         {
-          "date": "2026-10-23",
-          "views_display": "1743"
+          "date": "2026-10-30",
+          "views_display": "1165"
         },
         {
-          "date": "2026-10-26",
-          "views_display": "295"
+          "date": "2026-11-03",
+          "views_display": "2"
         }
       ],
       "source_url": "https://www.instagram.com/accounts/insights/?timeframe=7"
@@ -1740,23 +1740,33 @@
       "shorts": 8,
       "videos": 2,
       "period": {
-        "start": "2026-09-28",
-        "end": "2026-10-25",
-        "views": 3350,
-        "watch_hours_display": "6.4",
+        "start": "2026-10-06",
+        "end": "2026-11-02",
+        "views": 3406,
+        "watch_hours_display": "6.6",
         "subscriber_net": 6
       },
       "realtime": {
-        "views_last_48h": 49,
-        "latest_video_views": 1
+        "views_last_48h": 3,
+        "latest_video_views": 5
       },
       "contents": [
+        {
+          "id": "z1RGV2yoMmk",
+          "title": "테포와 불꽃축제",
+          "type": "동영상",
+          "date": "2026-10-26",
+          "duration_seconds": 44,
+          "views": 5,
+          "comments": 1,
+          "url": "https://www.youtube.com/watch?v=z1RGV2yoMmk"
+        },
         {
           "id": "BsPm5D8bLuc",
           "title": "테포와 불꼿축제",
           "type": "Shorts",
           "date": "2026-10-26",
-          "views": 8,
+          "views": 9,
           "comments": 0
         },
         {
@@ -1764,7 +1774,7 @@
           "title": "No Pusan Yes busan!!",
           "type": "Shorts",
           "date": "2026-10-24",
-          "views": 662,
+          "views": 660,
           "comments": 0
         },
         {
@@ -1784,7 +1794,7 @@
           "type": "Shorts",
           "date": "2026-10-21",
           "duration_seconds": 22,
-          "views": 1225,
+          "views": 1238,
           "comments": 2,
           "url": "https://www.youtube.com/watch?v=cmlGWWlpI_g",
           "restrictions": "잠재적 제한사항 있음 (콘텐츠 목록 표시)"
@@ -1828,7 +1838,7 @@
           "type": "Shorts",
           "date": "2026-10-06",
           "duration_seconds": 71,
-          "views": 300,
+          "views": 311,
           "comments": 0,
           "url": "https://www.youtube.com/watch?v=aBLrlBTrjn8",
           "restrictions": null
@@ -1848,18 +1858,18 @@
       "source_url": "https://studio.youtube.com/channel/UC8RZE0SerMxjKUhrRqerQng/analytics/tab-overview/period-default"
     },
     "insights": [
-      "Instagram 팔로워 77명·게시물 18개로 10월 26일 대비 각각 +4명·+1개입니다.",
-      "Instagram 최근 7일 조회수 13.5만, 반응 2.8만, 조회한 사람 10.6만으로 표시됩니다. 전일 10.9만·2.4만과 비교해 확대됐지만 축약값과 이동 기간이므로 하루 실적으로 계산하지 않습니다.",
-      "비팔로워 조회 비중 98.6%. 10월 22일 릴스 11.6만, 10월 24일 릴스 2.4만으로 표시됩니다. 후속 콘텐츠에서 프로필 방문과 팔로우 유도 문구를 시험할 것을 권합니다.",
-      "최근 7일 프로필 방문 270회·외부 링크 누름 12회. 단순 비율은 약 4.4%이며 사용자 단위 전환율이나 YouTube 유입 기여도를 의미하지 않습니다.",
-      "YouTube 공개 영상은 10개(Shorts 8개·일반 2개)로 2개 늘었지만 구독자는 6명 유지. 지난 48시간 조회수는 49회로 이전 관측 668회보다 낮습니다. 이동 기간 수치이며 신작 성패를 단정하지 않습니다.",
-      "YouTube 9월 28일~10월 25일 조회수 3,350회. No Pusan Yes busan!! 평균 조회율 114.4%는 반복 시청 가능성을 시사하지만 원인을 확정할 수 없습니다. 핀터레스트 영상의 잠재적 제한사항을 확인하고 음원 권리를 점검할 것을 권합니다."
+      "Instagram 팔로워 102명·게시물 23개로 10월 27일 대비 +25명·+5개입니다. 관측 사이 일주일 변화이며 하루 증감이 아닙니다.",
+      "최근 7일 조회수 4.8만·반응 9,628·참여 계정 5,085입니다. 이전 13.5만 조회와 비교해 낮아졌지만 중첩 이동 기간과 축약 표시이므로 일별 하락률로 해석하지 않습니다.",
+      "비팔로워 조회 비중 98.6%로 신규 노출 중심입니다. 최근 인기 콘텐츠는 10월 28일 3,744회. 해당 포맷 후속편에서 팔로우 유도 문구를 시험하세요.",
+      "최근 7일 프로필 방문 89회입니다. 외부 링크 누름은 이번 화면에 표시되지 않아 미확인으로 기록했습니다.",
+      "YouTube 구독자 6명·공개 영상 10개(Shorts 8개·일반 2개)로 유지됩니다. 지난 48시간 조회수 3회로 신규 업로드 및 제목·첫 장면 실험을 권합니다.",
+      "YouTube 10월 6일~11월 2일 조회수 3,406회·시청시간 6.6시간입니다. 핀터레스트 1,238회·춤 1,087회가 기간 상위 콘텐츠입니다. 핀터레스트 잠재적 제한사항 알림은 목록에서 재확인했으며 상세 원인은 재확인하지 않았습니다."
     ],
     "limitations": [
-      "Instagram 축약값은 원문을 보존하며 정확한 정수나 일별 증감으로 환산하지 않았습니다. 최근 7일 절대 날짜 경계는 미표시입니다.",
-      "이번에는 Instagram 최근 7일과 프로필을 재확인했습니다. 이전 30·90일 수치는 10월 26일 이력에 보존했습니다.",
-      "YouTube 기간 분석·실시간·콘텐츠 누적은 집계 시점과 범위가 다르므로 합산하지 않습니다. 기간 조회수 3,350과 이전 3,335의 차이는 일별 조회수가 아닙니다.",
-      "Instagram 전체 게시물 개별 인사이트와 YouTube 일별 시계열은 재수집하지 않았습니다. 아래 상세는 10월 23일 보관 자료입니다."
+      "Instagram 최근 7일 절대 날짜 경계는 표시되지 않았습니다. 축약 원문은 정확한 정수로 환산하지 않았습니다.",
+      "Instagram 외부 링크 누름은 미표시로 null 처리했습니다. 0회를 의미하지 않습니다. 최근 30·90일은 재수집하지 않았습니다.",
+      "YouTube 기간 분석·실시간·콘텐츠 누적은 서로 합산하지 않습니다. No Pusan 누적 조회는 현재 660회로 표시되며 이전 662회와의 차이 원인은 미확인입니다.",
+      "이전 관측 10월 27일을 이력에 보존했습니다. 개별 Instagram 전체 콘텐츠와 일별 시계열은 재수집하지 않았습니다."
     ]
   },
   "run_history": [
@@ -2095,6 +2105,200 @@
         "YouTube 콘텐츠 목록 누적 조회와 기간 분석·실시간 값은 서로 다릅니다. 기간 조회수 증가는 서로 다른 기간인 10월 23일 보고서와 직접 비교하지 않습니다.",
         "일별 분석과 Instagram 전체 17개 게시물의 개별 인사이트는 이번 실행에서 재수집하지 않았습니다. 아래 기존 상세는 10월 23일 보관 자료입니다."
       ]
+    },
+    {
+      "observed_at": "2026-10-27T02:28:02.747Z",
+      "date": "2026-10-27",
+      "previous_date": "2026-10-26",
+      "cadence": "월~금 09:00 Asia/Seoul",
+      "instagram": {
+        "account": "tepo_001",
+        "url": "https://www.instagram.com/tepo_001/",
+        "followers": 77,
+        "posts": 18,
+        "following": 11,
+        "change_since_previous": {
+          "followers": 4,
+          "posts": 1
+        },
+        "periods": [
+          {
+            "days": 7,
+            "views": {
+              "display": "13.5만",
+              "value": null,
+              "precision": "abbreviated"
+            },
+            "people_viewed": {
+              "display": "10.6만",
+              "value": null,
+              "precision": "abbreviated"
+            },
+            "interactions": {
+              "display": "2.8만",
+              "value": null,
+              "precision": "abbreviated"
+            },
+            "engaged_accounts": {
+              "display": "1.3만",
+              "value": null,
+              "precision": "abbreviated"
+            },
+            "nonfollowers_pct": 98.6,
+            "profile_activity": 282,
+            "profile_visits": 270,
+            "external_link_taps": 12
+          }
+        ],
+        "top_content": [
+          {
+            "date": "2026-10-22",
+            "views_display": "11.6만"
+          },
+          {
+            "date": "2026-10-24",
+            "views_display": "2.4만"
+          },
+          {
+            "date": "2026-10-23",
+            "views_display": "1743"
+          },
+          {
+            "date": "2026-10-26",
+            "views_display": "295"
+          }
+        ],
+        "source_url": "https://www.instagram.com/accounts/insights/?timeframe=7"
+      },
+      "youtube": {
+        "account": "테포",
+        "url": "https://www.youtube.com/channel/UC8RZE0SerMxjKUhrRqerQng",
+        "followers": 6,
+        "posts": 10,
+        "shorts": 8,
+        "videos": 2,
+        "period": {
+          "start": "2026-09-28",
+          "end": "2026-10-25",
+          "views": 3350,
+          "watch_hours_display": "6.4",
+          "subscriber_net": 6
+        },
+        "realtime": {
+          "views_last_48h": 49,
+          "latest_video_views": 1
+        },
+        "contents": [
+          {
+            "id": "BsPm5D8bLuc",
+            "title": "테포와 불꼿축제",
+            "type": "Shorts",
+            "date": "2026-10-26",
+            "views": 8,
+            "comments": 0
+          },
+          {
+            "id": "p1dAJbBLgvA",
+            "title": "No Pusan Yes busan!!",
+            "type": "Shorts",
+            "date": "2026-10-24",
+            "views": 662,
+            "comments": 0
+          },
+          {
+            "id": "E1j4jQ8_WnE",
+            "title": "춤",
+            "type": "Shorts",
+            "date": "2026-10-22",
+            "duration_seconds": 16,
+            "views": 1087,
+            "comments": 2,
+            "url": "https://www.youtube.com/watch?v=E1j4jQ8_WnE",
+            "restrictions": null
+          },
+          {
+            "id": "cmlGWWlpI_g",
+            "title": "핀터레스트 그림 그리기!",
+            "type": "Shorts",
+            "date": "2026-10-21",
+            "duration_seconds": 22,
+            "views": 1225,
+            "comments": 2,
+            "url": "https://www.youtube.com/watch?v=cmlGWWlpI_g",
+            "restrictions": "잠재적 제한사항 있음 (콘텐츠 목록 표시)"
+          },
+          {
+            "id": "wm9Eu2WToNM",
+            "title": "비가 오는 날엔",
+            "type": "Shorts",
+            "date": "2026-10-20",
+            "duration_seconds": 8,
+            "views": 15,
+            "comments": 1,
+            "url": "https://www.youtube.com/watch?v=wm9Eu2WToNM",
+            "restrictions": null
+          },
+          {
+            "id": "IPaHYdmeESE",
+            "title": "테트라포드에 빠진 테트라포드",
+            "type": "Shorts",
+            "date": "2026-10-19",
+            "duration_seconds": 4,
+            "views": 36,
+            "comments": 1,
+            "url": "https://www.youtube.com/watch?v=IPaHYdmeESE",
+            "restrictions": null
+          },
+          {
+            "id": "8zcweUcoTcc",
+            "title": "테포는 새우깡이 좋아!",
+            "type": "Shorts",
+            "date": "2026-10-19",
+            "duration_seconds": 44,
+            "views": 6,
+            "comments": 0,
+            "url": "https://www.youtube.com/watch?v=8zcweUcoTcc",
+            "restrictions": null
+          },
+          {
+            "id": "aBLrlBTrjn8",
+            "title": "해양 안전 Check! [2026 해양안전 콘텐츠 공모전] | Ai 숏폼 영상",
+            "type": "Shorts",
+            "date": "2026-10-06",
+            "duration_seconds": 71,
+            "views": 300,
+            "comments": 0,
+            "url": "https://www.youtube.com/watch?v=aBLrlBTrjn8",
+            "restrictions": null
+          },
+          {
+            "id": "yov6U7Zs0PU",
+            "title": "테포는 새우깡이 좋아!",
+            "type": "동영상",
+            "date": "2026-10-18",
+            "duration_seconds": 87,
+            "views": 15,
+            "comments": 1,
+            "url": "https://www.youtube.com/watch?v=yov6U7Zs0PU",
+            "restrictions": null
+          }
+        ],
+        "source_url": "https://studio.youtube.com/channel/UC8RZE0SerMxjKUhrRqerQng/analytics/tab-overview/period-default"
+      },
+      "insights": [
+        "Instagram 팔로워 77명·게시물 18개로 10월 26일 대비 각각 +4명·+1개입니다.",
+        "Instagram 최근 7일 조회수 13.5만, 반응 2.8만, 조회한 사람 10.6만으로 표시됩니다. 전일 10.9만·2.4만과 비교해 확대됐지만 축약값과 이동 기간이므로 하루 실적으로 계산하지 않습니다.",
+        "비팔로워 조회 비중 98.6%. 10월 22일 릴스 11.6만, 10월 24일 릴스 2.4만으로 표시됩니다. 후속 콘텐츠에서 프로필 방문과 팔로우 유도 문구를 시험할 것을 권합니다.",
+        "최근 7일 프로필 방문 270회·외부 링크 누름 12회. 단순 비율은 약 4.4%이며 사용자 단위 전환율이나 YouTube 유입 기여도를 의미하지 않습니다.",
+        "YouTube 공개 영상은 10개(Shorts 8개·일반 2개)로 2개 늘었지만 구독자는 6명 유지. 지난 48시간 조회수는 49회로 이전 관측 668회보다 낮습니다. 이동 기간 수치이며 신작 성패를 단정하지 않습니다.",
+        "YouTube 9월 28일~10월 25일 조회수 3,350회. No Pusan Yes busan!! 평균 조회율 114.4%는 반복 시청 가능성을 시사하지만 원인을 확정할 수 없습니다. 핀터레스트 영상의 잠재적 제한사항을 확인하고 음원 권리를 점검할 것을 권합니다."
+      ],
+      "limitations": [
+        "Instagram 축약값은 원문을 보존하며 정확한 정수나 일별 증감으로 환산하지 않았습니다. 최근 7일 절대 날짜 경계는 미표시입니다.",
+        "이번에는 Instagram 최근 7일과 프로필을 재확인했습니다. 이전 30·90일 수치는 10월 26일 이력에 보존했습니다.",
+        "YouTube 기간 분석·실시간·콘텐츠 누적은 집계 시점과 범위가 다르므로 합산하지 않습니다. 기간 조회수 3,350과 이전 3,335의 차이는 일별 조회수가 아닙니다.",
+        "Instagram 전체 게시물 개별 인사이트와 YouTube 일별 시계열은 재수집하지 않았습니다. 아래 상세는 10월 23일 보관 자료입니다."
+      ]
     }
   ]
-      }
+}
